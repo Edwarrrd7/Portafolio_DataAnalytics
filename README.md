@@ -1,4 +1,4 @@
-# Proyectos personales desarrollados con datos de Kaggle
+# Proyectos personales desarrollados con datos de Kaggle.
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 
@@ -28,4 +28,4 @@ Soy economista por la UAM y administrador por la UNAM. Desde 2022 empecè mi cam
 
 Saludos.
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/edward-asael-santiago-ben%C3%ADtez-19a70111b/
