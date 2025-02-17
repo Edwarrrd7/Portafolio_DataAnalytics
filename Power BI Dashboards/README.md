@@ -1,4 +1,4 @@
-# Proyectos desarrollados en Power BI para cliente 
+# Proyectos desarrollados en Power BI para clientes.
 ![VBA](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=powerbi&logoColor=white)
