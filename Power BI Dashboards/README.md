@@ -48,4 +48,4 @@ Soy economista por la UAM y administrador por la UNAM. Desde 2022 empecè mi cam
 
 Saludos.
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/edward-asael-santiago-ben%C3%ADtez-19a70111b/
