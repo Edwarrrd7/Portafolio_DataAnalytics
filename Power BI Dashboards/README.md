@@ -2,7 +2,8 @@
 ![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=powerbi&logoColor=white)
 
-#### Proyectos que integran diversas fuentes de datos; desde fuentes online como APIS, hasta archivos csv. 
+#### Proyectos que integran diversas fuentes de datos; desde fuentes online como APIS, hasta archivos csv (datos reales censurados y/o reemplazados).
+
 > ##### ¡Gracias por ver!
 
 ## Dashboard de Medios ON para marca de Bebidas.
