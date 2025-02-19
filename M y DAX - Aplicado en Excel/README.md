@@ -5,7 +5,7 @@
 
 ## Archivo de Gestión de Campañas Publicitarias para compañia promotora de eventos (datos reales censurados y/o reemplazados for ficticios).
 
-Este archivo de Excel está diseñado para centralizar y organizar la información de las campañas publicitarias, facilitando el seguimiento de su rendimiento. Contiene datos clave como fechas de inicio y fin, presupuestos, canales utilizados, métricas de desempeño (impresiones, clics, conversiones, etc.), y resultados por campaña. El archivo permite un análisis detallado y comparativo de las campañas, ayudando a optimizar futuras estrategias y asegurar el cumplimiento de los objetivos establecidos.
+Este archivo de Excel está diseñado para centralizar y organizar la información de las campañas publicitarias, facilitando el seguimiento de su rendimiento. Contiene datos clave como fechas de inicio y fin, presupuestos, canales utilizados, métricas de desempeño, y resultados por campaña. El archivo permite un análisis detallado y comparativo de las campañas, ayudando a optimizar futuras estrategias y asegurar el cumplimiento de los objetivos establecidos.
 
 IMAGEN
 
