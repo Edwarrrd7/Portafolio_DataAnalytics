@@ -3,49 +3,12 @@
 ![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## Archivo de Gestión de Campañas Publicitarias para compañia promotora de eventos (datos reales censurados y/o reemplazados for ficticios).
 
-
-## Plantilla de portafolio web minimalista configurable a nivel gráfico y de contenido.
-
-Desarrollado utilizando lenguajes DAX y M para el modeado y limpieza de datos.
-
-#### Proyectos que integran diversas fuentes de datos; desde fuentes online como APIS, hasta archivos csv. 
-> ##### ¡Gracias por ver!
-
-## Dashboard de Medios ON para marca de Bebidas.
-
-¿Qué información debo añadir en mi portafolio como desarrollador? En [este](https://youtu.be/zFbTXe1yFGA) vídeo explico el por qué de cada apartado.
+Este archivo de Excel está diseñado para centralizar y organizar la información de las campañas publicitarias, facilitando el seguimiento de su rendimiento. Contiene datos clave como fechas de inicio y fin, presupuestos, canales utilizados, métricas de desempeño (impresiones, clics, conversiones, etc.), y resultados por campaña. El archivo permite un análisis detallado y comparativo de las campañas, ayudando a optimizar futuras estrategias y asegurar el cumplimiento de los objetivos establecidos.
 
 IMAGEN
 
-Contenido:
-* Avatar y datos principales
-* Información de contacto, CV y redes
-* Sobre mí
-* Tecnologías
-* Experiencia
-* Proyectos
-* Formación
-* Extra
-
-
-## Dashboard de Medios ON para Marca de Alimentos.
-
-Plantilla web para programadores desarrollada con la premisa de crear el "portafolio perfecto", con todas las secciones e información fundamental.
-
-IMAGEN
-
-Contenido:
-* Avatar y datos principales
-* Información de contacto, CV y redes
-* Sobre mí
-* Tecnologías
-* Experiencia
-* Proyectos
-* Formación
-* Extra
-
-Soy economista por la UAM y administrador por la UNAM. Desde 2022 empecè mi camino en el analisis de datos, llevando a cabo investigaciones cuantitativas que me llevaron a profundizar en el mundo de los datos. Ahora combino mi trabajo con esta apasionante disciplina.
 
 Saludos.
 
