@@ -9,6 +9,18 @@
 
 IMAGEN
 
+[![R](https://img.shields.io/badge/R-4.0+-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org/)
+
+#### Desarrollado utilizando tecnicas de Machine Learning en Python.
+
+¡Gracias por ver!
+
+## Proyecto: Modelo Predicitivo de Turismo en Japón con R.
+
+IMAGEN
+
+
+
 Hola, soy Analista de Datos con formación en Economía e Ingeniería en Sistemas. En 2022 empecé mi camino en el análisis de datos, llevando a cabo investigaciones cualitativas y cuantitativas que me llevaron a profundizar en el mundo de los datos. Ahora combino mi trabajo con esta apasionante disciplina.
 
 Saludos.
