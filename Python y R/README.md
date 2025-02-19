@@ -1,21 +1,17 @@
 # Proyectos personales desarrollados con datos de Kaggle.
-[![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
-
-#### Desarrollado utilizando tecnicas de Machine Learning en Python.
 
 ¡Gracias por ver!
 
 ## Proyecto: Modelo de Machine Learning para la detección de cáncer pulmonar.
+[![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 IMAGEN
 
-[![R](https://img.shields.io/badge/R-4.0+-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org/)
 
-#### Desarrollado utilizando tecnicas de Machine Learning en Python.
 
-¡Gracias por ver!
 
 ## Proyecto: Modelo Predicitivo de Turismo en Japón con R.
+[![R](https://img.shields.io/badge/R-4.0+-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org/)
 
 IMAGEN
 
