@@ -5,8 +5,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=powerbi&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 
-#### Desarrollado utilizando tecnicas de Machine Learning en Python.
-
 > ##### ¡Gracias por ver!
 
 Bienvenido.
