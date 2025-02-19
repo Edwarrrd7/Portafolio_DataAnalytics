@@ -7,7 +7,7 @@
 
 #### Desarrollado utilizando tecnicas de Machine Learning en Python.
 
-¡Gracias por ver!
+> ##### ¡Gracias por ver!
 
 Bienvenido.
 
