@@ -1,4 +1,4 @@
-# Proyectos personales y Profesionales.
+# Proyectos Personales y Profesionales.
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![R](https://img.shields.io/badge/R-4.0+-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org/)
 ![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge&logo=python&logoColor=white)
