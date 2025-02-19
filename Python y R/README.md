@@ -5,7 +5,7 @@
 
 ¡Gracias por ver!
 
-## Proyecto: Modleo de ML para la deteccion de cancer pulmonar.
+## Proyecto: Modelo de Machine Learning para la deteccion de cancer pulmonar.
 
 IMAGEN
 
