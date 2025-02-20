@@ -7,8 +7,9 @@
 
 Este archivo de Excel está diseñado para centralizar y organizar la información de las campañas publicitarias, facilitando el seguimiento de su rendimiento. Contiene datos clave como fechas de inicio y fin, presupuestos, canales utilizados, métricas de desempeño, y resultados por campaña. El archivo permite un análisis detallado y comparativo de las campañas, ayudando a optimizar futuras estrategias y asegurar el cumplimiento de los objetivos establecidos.
 
-IMAGEN
+![Captura de pantalla 2025-02-19 184921](https://github.com/user-attachments/assets/d76a7c17-854b-4a63-923d-a2bd8dc0437c)
 
+https://1drv.ms/x/c/d722b0b547f04c10/EZHkX345oOJBh4rDszuofWEBZwSJMMd7K1_LyO1DSPdEOA?e=Bx62EA
 
 Saludos.
 
