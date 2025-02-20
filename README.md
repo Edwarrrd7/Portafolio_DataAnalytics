@@ -11,6 +11,6 @@ Bienvenido.
 
 Holaa, soy Analista de Datos con formación en Economía e Ingeniería en Sistemas. En 2022 empecé mi camino en el análisis de datos, llevando a cabo investigaciones cualitativas y cuantitativas que me llevaron a profundizar en este mundo. Ahora combino mi trabajo con esta apasionante disciplina.
 
-Saludos.
+Saludos. 
 
 LinkedIn: https://www.linkedin.com/in/edward-asael-santiago-ben%C3%ADtez-19a70111b/
