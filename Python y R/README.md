@@ -13,6 +13,8 @@
 
 ![image](https://github.com/user-attachments/assets/17f02b72-bd21-4c69-bfaa-558d578473b2)
 
+Shiny app: https://mornaeldernar.shinyapps.io/prototype-day/
+
 Hola, soy Analista de Datos con formación en Economía e Ingeniería en Sistemas. En 2022 empecé mi camino en el análisis de datos, llevando a cabo investigaciones cualitativas y cuantitativas que me llevaron a profundizar en el mundo de los datos. Ahora combino mi trabajo con esta apasionante disciplina.
 
 Saludos.
