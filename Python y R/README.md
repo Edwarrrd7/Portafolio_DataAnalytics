@@ -5,9 +5,7 @@
 ## Proyecto: Modelo de Machine Learning para la detección de cáncer pulmonar.
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-IMAGEN
-
-
+![image](https://github.com/user-attachments/assets/d5384f90-6903-4966-bfe9-10165c7bcd2b)
 
 
 ## Proyecto: Modelo Predicitivo de Turismo en Japón con R.
