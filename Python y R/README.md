@@ -2,13 +2,13 @@
 
 > ##### ¡Gracias por ver!
 
-## Proyecto: Modelo de Machine Learning para la detección de cáncer pulmonar.
+## Proyecto: Modelo de Machine Learning para la detección de cáncer pulmonar. (BEDU Data Scientist - Equipo 11)
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 ![image](https://github.com/user-attachments/assets/d5384f90-6903-4966-bfe9-10165c7bcd2b)
 
 
-## Proyecto: Modelo Predicitivo de Turismo en Japón con R.
+## Proyecto: Modelo Predicitivo de Turismo en Japón con R. (BEDU Data Scientist - Equipo 11)
 [![R](https://img.shields.io/badge/R-4.0+-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org/)
 
 IMAGEN
