@@ -4,7 +4,7 @@
 
 #### Proyectos que integran diversas fuentes de datos; desde fuentes online como APIS, hasta archivos csv (datos reales censurados y/o reemplazados).
 
-> ##### ¡Gracias por ver!
+> ##### ¡Gracias por ver! 
 
 ## Dashboard de Medios ON para Marca de Bebidas.
 
