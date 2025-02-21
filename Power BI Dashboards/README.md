@@ -8,7 +8,7 @@
 
 ## Dashboard de Medios ON para Marca de Bebidas.
 
-Este dashboard proporciona una visualización clara y detallada del rendimiento de las campañas de medios digitales para la marca de bebidas. A través de métricas clave como impresiones, clics, conversiones y retorno de inversión (ROI), los equipos pueden analizar el impacto de sus esfuerzos en tiempo real, optimizar las estrategias y tomar decisiones informadas para maximizar la efectividad de las campañas en medios online.
+Este dashboard proporciona una visualización clara y detallada del rendimiento de las campañas de medios digitales para la marca de bebidas. A través de métricas clave como impresiones, clics, conversiones y retorno de inversión, los equipos pueden analizar el impacto de sus esfuerzos en tiempo real, optimizar las estrategias y tomar decisiones informadas para maximizar la efectividad de las campañas en medios online.
 
 ![image](https://github.com/user-attachments/assets/b16c578c-490c-4ef5-816a-013f4fbd9dc5)
 
